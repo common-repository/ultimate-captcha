@@ -1,0 +1,602 @@
+/*Admin - Main*/
+
+#ultimatecaptcha-add-new-custom-field-frm   { display:none }
+
+#loading-animation{ display:none}
+.ultimatecaptcha-admin .nav-tab.ultimatecaptcha-pro-tab-bubble { 
+    background-color: #E55237;
+    color:white; border:solid 1px #df4a2f  
+
+}
+
+.ultimatecaptcha-admin .nav-tab.ultimatecaptcha-pro-tab-bubble:hover { 
+    background-color: #E55237;
+    color:white;  border:solid 1px #df4a2f 
+
+}
+
+span.ultimatecaptcha-main-close-open-tab{ position:absolute; right:5px; top:10px}
+span.ultimatecaptcha-main-close-open-tab a{ font-size:18px; color:#474747}
+span.ultimatecaptcha-main-close-open-tab i{ font-size:18px}
+
+
+.ultimatecaptcha-sect { padding:2px 5px 2px 5px; margin-top:10px; position:relative; background:#FFF}
+.ultimatecaptcha-sect .ultimatecaptcha-header { margin:5px; padding-top:5px; padding-left:5px; border-bottom: solid 1px #F8F8F8}
+.ultimatecaptcha-sect .ultimatecaptcha-header h3{ font-size:20px}
+
+
+.ultimatecaptcha-welcome-panel {
+    background: #fff none repeat scroll 0 0;
+    border: 1px solid #e5e5e5;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+    font-size: 13px;
+    line-height: 2.1em;
+    margin: 14px 0;
+    overflow: hidden;
+    padding: 15px 10px 5px;
+    position: relative !important;
+}
+
+.ultimatecaptcha-welcome-panel h3 {
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 1.2;
+    margin: 0;
+}
+.ultimatecaptcha-welcome-panel h4 {
+    font-size: 16px;
+    margin: 1.33em 0 0;
+}
+.ultimatecaptcha-welcome-panel li {
+    font-size: 14px;
+}
+
+
+.ultimatecaptcha-welcome-panel-content {
+    margin-left: 13px;
+    max-width: 1500px;
+}
+
+
+
+span.ultimatecaptcha-delete-ticket-conver{ position:absolute; right:5px; top:10px}
+span.ultimatecaptcha-delete-ticket-conver a{ font-size:14px; color: #999}
+
+
+
+span.ultimatecaptchalogoadmin{ position:absolute; right:5px; top:10px}
+
+
+
+.ultimatecaptcha-messaging-hidden{ display:none}
+
+
+
+#bup-loading-animation-business-hours{ display:none; }
+
+.ultimatecaptcha-admin-contain .avatar {
+border-radius: 50%;
+-moz-border-radius: 50%;
+-webkit-border-radius: 50%;
+}
+
+
+/**/
+
+.ultimatecaptcha-ticket-header-quickoptions {
+	position:relative; text-align:right;
+	background:none;
+	height:45px;
+	margin:5px 0px 10px 0px;
+	
+}
+
+.ultimatecaptcha-ticket-header-quickoptions ul{
+	position:relative;
+	text-align:right;
+	padding:5px;
+		
+}
+
+.ultimatecaptcha-ticket-header-quickoptions li{
+	position:relative;
+	display:inline-block;
+	width:auto;
+	padding:5px;
+}
+
+.ultimatecaptcha-ticket-header-quickoptions li i{
+	margin-right:5px;
+	
+}
+
+
+
+
+.ultimatecaptcha-appointments-getting-started {
+
+}
+
+.ultimatecaptcha-common-block {
+    background: #fff none repeat scroll 0 0;
+    border: 1px solid #e5e5e5;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+    font-size: 13px;
+    line-height: 2.1em;
+    margin: 5px 0;
+    overflow: auto;
+  
+    position: relative;
+	height:auto;	
+	
+   
+	width:99%;
+}
+
+.ultimatecaptcha-top-options-book{
+	
+	width:200px;
+	background: none;
+	position:absolute;
+		
+	right:0px;
+	top:5px;
+	text-align:right
+}
+
+
+.ultimatecaptcha-front-cont { 
+
+	padding:10px; 
+	margin:0 auto 0 auto; 
+	position:relative;
+	background: #fbfbfb; 
+	width:100%; 
+	max-width:800px; 
+	border:1px solid #ececec
+}
+
+.ultimatecaptcha-help { font-size:14px; color:#999; text-align:left; padding:5px 0px 5px 0px}
+
+
+
+.ultimatecaptcha-front-cont .bup_errors{ 
+
+
+}
+
+.ultimatecaptcha-front-cont .bup_errors p.bup_error{
+	
+	color: #FF0004;
+
+
+}
+.ultimatecaptcha-front-cont label{ 
+
+	display:inline-block;
+	margin-bottom:5px;
+	color:#666
+
+	
+}
+
+.ultimatecaptcha-ticket-reply-auto-cont{ 
+	position:relative;
+	padding:10px 0px 10px 0px;
+	
+
+}
+
+
+
+
+
+.ultimatecaptcha-welcome-panel .ultimatecaptcha-button-upgrade:hover{ 
+
+	background: #333   none repeat scroll 0 0;
+	border:none;
+   
+    box-shadow: none;
+    color: #CCC;
+    text-shadow: none;
+}
+
+.ultimatecaptcha-welcome-panel h1{ font-size:29px; color:#999}
+
+.ultimatecaptcha-welcome-panel .ultimatecaptcha-button-upgrade-pro{ transition: all 0.1s ease-out 0s;}
+
+.ultimatecaptcha-welcome-panel .ultimatecaptcha-button-upgrade{position:absolute; top:180px; right:30px;}
+
+h3.ultimatecaptcha-extended{ font-size:40px;}
+h3.ultimatecaptcha-welcome{ font-size:28px;}
+p.ultimatecaptcha-extended-p{ font-size:16px;}
+
+
+.ultimatecaptcha-ultra-info, .ultimatecaptcha-ultra-success, .ultimatecaptcha-ultra-warning, .ultimatecaptcha-ultra-error, .isa_error {
+
+    border:none;
+
+    margin: 10px 0px 15px 5px;
+
+    padding:15px 10px 15px 50px;
+
+    background-repeat: no-repeat;
+
+    background-position: 10px center;
+
+	-moz-border-radius:.5em;
+
+-webkit-border-radius:.5em;
+
+border-radius:.5em;
+
+}
+
+
+
+.ultimatecaptcha-ultra-warning {
+
+    color: #9F6000;
+
+    background-color: #FEEFB3;
+
+
+}
+
+.ultimatecaptcha-ultra-error {
+
+    color: #D8000C;
+
+    background-color: #FFBABA;
+
+
+}
+
+.ultimatecaptcha-ultra-wait {
+    color: #333;
+    background-color:none;
+	text-align:center
+   
+}
+.ultimatecaptcha-ultra-info {
+    color: #777;
+    background-color: #e9f5fbf0;
+   
+}
+.ultimatecaptcha-ultra-success {
+    color: #4F8A10;
+    background-color: #DFF2BF;
+   
+}
+
+.ultimatecaptcha-ultra-success i{
+	font-size:18px;
+	margin:0px 5px 0px 0px
+   
+}
+
+.ultimatecaptcha-ultra-info i{
+	font-size:18px;
+	margin:0px 5px 0px 0px
+   
+}
+.ultimatecaptcha-ultra-warning {
+    color: #666;
+    background-color: #ffcc002b;
+   
+}
+
+.ultimatecaptcha-ultra-warning i{
+	font-size:18px;
+	margin:0px 5px 0px 0px
+   
+}
+
+.ultimatecaptcha-ultra-error {
+    color: #D8000C;
+    background-color: #FFBABA;
+   
+}
+
+
+.ultimatecaptcha-button-upgrade{ 
+
+
+ background: #5D5656 none repeat scroll 0 0;
+ border:none;
+ color: #FFF;
+ font-size:16px;
+ line-height:20px;
+ padding:0 12px;
+ height:50px;
+ width:190px;
+ text-transform:uppercase;
+ text-decoration:none;
+ cursor:pointer;	
+
+}
+
+.ultimatecaptcha-button-upgrade:hover{ 
+
+	background: #333   none repeat scroll 0 0;
+	border:none;
+   
+    box-shadow: none;
+    color: #CCC;
+    text-shadow: none;
+}
+
+
+/************************************************************************************
+
+FIELD CUSTOMIZER
+
+*************************************************************************************/
+
+.ultimatecaptcha-spinner {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-left: -50px; /* half width of the spinner gif */
+    margin-top: -50px; /* half height of the spinner gif */
+    text-align:center;
+    z-index:1234;
+    overflow: auto;
+    width: 190px; /* width of the spinner gif */
+    height: 102px; /*hight of the spinner gif +2px to fix IE8 issue */
+	background-color:rgba(240,240,240,0.7);
+	-moz-border-radius:.5em;
+	-webkit-border-radius:.5em;
+	border-radius:.5em;
+	font-size:14px;
+	padding-top:30px;
+}
+
+.ultimatecaptcha-notification{ display:none}
+.ultimatecaptcha-profile-fields-row {
+    border: 1px solid #efefef;
+   /* border-radius: 0.5em;*/
+    clear: both;
+    height: auto !important;
+    margin: 10px 0;
+    min-height: 60px;
+    padding: 0;
+    position: relative;
+    width: 600px;
+}
+.ultimatecaptcha-profile-fields-row .heading_title {
+    border-bottom: 1px solid #efefef;
+    clear: both;
+    height: 30px;
+    margin: 0;
+    padding-top: 15px;
+    position: relative;
+    vertical-align: middle;
+    width: 100%;
+}
+.ultimatecaptcha-profile-fields-row .options-bar {
+    clear: both;
+    height: 40px;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    right: 0;
+    text-align: right;
+    top: 0;
+    width: 170px;
+}
+.ultimatecaptcha-profile-fields-row .options-bar p {
+    margin: 8px 5px 0;
+}
+.ultimatecaptcha-profile-fields-row .heading_title h3 {
+    font-size: 14px;
+    margin: 0 0 0 10px;
+}
+.ultimatecaptcha-profile-fields-row .heading_title.separator {
+    background: #eee none repeat scroll 0 0;
+}
+.ultimatecaptcha-profile-fields-row.profile-field {
+    margin-left: 30px;
+    width: 450px;
+}
+.ultimatecaptcha-profile-fields-row .ultimatecaptcha-fields-edition {
+    display: none;
+    margin: 10px auto;
+    width: 85%;
+}
+#uu-fields-sortable .ui-selected {
+    background: red none repeat scroll 0 0;
+    color: white;
+    font-weight: bold;
+}
+#uu-fields-sortable {
+    cursor: move;
+}
+
+
+
+/*
+ul.ui-autocomplete {
+	background: none repeat scroll 0 0 #DADADA;
+	cursor: pointer;
+	display: block;
+	list-style-type: none;
+	max-width: 200px;
+	padding: 0;
+	position: relative;
+	z-index: 1;
+}
+
+ul.ui-autocomplete li.ui-menu-item {
+	padding:3px 5px;
+}
+
+ul.ui-autocomplete li.ui-menu-item:hover, 
+ul.ui-autocomplete li.ui-state-hover:hover{
+	background:#666;
+}*/
+/* ------------------------------------------------------------------------- *
+
+ *  Responsive Style
+
+/* ------------------------------------------------------------------------- */
+
+/************************************************************************************
+
+MEDIA QUERIES
+
+*************************************************************************************/
+
+
+
+/* Large screens */
+
+@media only screen and (min-width : 1680px) {
+
+
+
+}
+
+
+
+/* Tablet Landscape */
+
+ @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
+
+
+
+}
+
+
+
+
+
+
+
+/* for 980px or less */
+
+@media screen and (max-width: 1000px) {
+	
+
+}
+
+
+/* Smaller than 960px */
+
+/*@media only screen and (max-width: 959px) {
+
+}*/
+
+
+
+/* MAX 800px */
+
+
+
+@media only screen and (max-width: 1000px) {
+	
+	.ultimatecaptcha-user-dahsboard-cont .ultimatecaptcha-top-header .ultimatecaptcha-top-options ul li .ultimatecaptcha-user-menu-text{ display:none}
+	.bp_table_row_hide{ display:none}	
+	.ultimatecaptcha-user-dahsboard-cont .ultimatecaptcha-top-header .ultimatecaptcha-top-options ul li i{ font-size:25px}
+	
+	#ultimatecaptcha-stats-on-hold{ display:none}
+	#ultimatecaptcha-stats-shared{ display:none}	
+	.ultimatecaptcha-main-ticket-summary ul li { width:23%}
+	.ultimatecaptcha-main-ticket-summary ul li.ultimatecaptchaclientd{width:30%  }
+	
+	
+	/* tickets list*/
+	#ultimatecaptcha-ticket-col-staff { display:none}
+	#ultimatecaptcha-ticket-col-department { display:none}
+	
+	
+}
+
+
+
+/* for 750px or less */
+
+@media only screen and (max-width: 750px) {
+	
+
+}
+
+@media only screen and (max-width: 620px) {
+	
+	
+	.ultimatecaptcha-main-ticket-summary ul li { width:22%}
+	#ultimatecaptcha-ticket-col-lastupdate { display:none}
+	
+	
+
+
+}
+
+/*  GO FULL WIDTH AT LESS THAN 580 PIXELS */
+
+@media only screen and (max-width: 580px) {
+	
+
+
+}
+
+
+@media only screen and (max-width: 460px) {
+	
+	
+	.ultimatecaptcha-staff-profile-name { display:none}
+	#ultimatecaptcha-ticket-col-status { display:none}
+	#ultimatecaptcha-ticket-col-site { display:none}
+	
+
+}
+
+
+/*  GO FULL WIDTH AT LESS THAN 480 PIXELS */
+
+@media only screen and (max-width: 480px) {
+	
+
+
+
+}
+
+
+
+/* MAX 1440px */
+
+
+
+@media only screen and (max-width: 1440px){
+
+
+
+
+}
+
+
+
+
+
+/* MAX 1024px */
+
+
+
+@media only screen and (max-width: 1024px){
+
+
+
+}
+
+
+/* MAX 360px */
+
+
+
+@media only screen and (max-width: 320px){
+
+
+		
+
+}
+

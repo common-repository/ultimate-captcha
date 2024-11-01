@@ -1,0 +1,1382 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultimate Captcha Core\n"
+"POT-Creation-Date: 2018-01-06 22:50-0300\n"
+"PO-Revision-Date: 2018-01-06 22:50-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: js\n"
+
+#: addons/profiles/admin/admin.php:38
+msgid "Staff Profile"
+msgstr ""
+
+#: addons/profiles/admin/admin.php:87
+msgid "Users Pages"
+msgstr ""
+
+#: addons/profiles/admin/admin.php:112
+msgid "User Pages"
+msgstr ""
+
+#: addons/profiles/admin/admin.php:165
+msgid "Rewrite Rules were Saved."
+msgstr ""
+
+#: addons/profiles/admin/admin.php:174
+msgid "CUSTOM PAGES SETTINGS"
+msgstr ""
+
+#: addons/profiles/admin/panels/manage.php:12
+msgid "Ticket Ultra Pro Staff Profile Pages"
+msgstr ""
+
+#: addons/profiles/admin/panels/manage.php:14
+msgid "Here you can set your custom pages for the staff profiles."
+msgstr ""
+
+#: addons/profiles/admin/panels/manage.php:24
+msgid "Registration Page"
+msgstr ""
+
+#: addons/profiles/admin/panels/manage.php:26
+msgid ""
+"Make sure you have the <code>[ultimatecaptcha_user_signup]</code> shortcode "
+"on this page."
+msgstr ""
+
+#: addons/profiles/admin/panels/manage.php:27
+msgid "This page is where users will be able to sign up to your website."
+msgstr ""
+
+#: addons/profiles/admin/panels/manage.php:34
+msgid "My Account Page"
+msgstr ""
+
+#: addons/profiles/admin/panels/manage.php:36
+msgid ""
+"Make sure you have the <code>[ultimatecaptcha_account]</code> shortcode on "
+"this page."
+msgstr ""
+
+#: addons/profiles/admin/panels/manage.php:37
+msgid ""
+"This page is where users and staff members will be able to manage their "
+"appointments."
+msgstr ""
+
+#: addons/profiles/admin/panels/manage.php:43
+msgid "Users Login Page"
+msgstr ""
+
+#: addons/profiles/admin/panels/manage.php:45
+msgid ""
+"Make sure you have the <code>[ultimatecaptcha_user_login]</code> shortcode "
+"on this page."
+msgstr ""
+
+#: addons/profiles/admin/panels/manage.php:46
+msgid ""
+"This page is where users and staff members & clients will be able to recover "
+"to login to their accounts."
+msgstr ""
+
+#: addons/profiles/admin/panels/manage.php:53
+msgid "Password Recover Page"
+msgstr ""
+
+#: addons/profiles/admin/panels/manage.php:55
+msgid ""
+"Make sure you have the <code>[ultimatecaptcha_user_recover_password]</code> "
+"shortcode on this page."
+msgstr ""
+
+#: addons/profiles/admin/panels/manage.php:56
+msgid ""
+"This page is where users and staff members will be able to recover their "
+"passwords."
+msgstr ""
+
+#: addons/profiles/admin/panels/manage.php:64
+msgid "Hide WP Admin Tool Bar?"
+msgstr ""
+
+#: addons/profiles/admin/panels/manage.php:66
+msgid "NO"
+msgstr ""
+
+#: addons/profiles/admin/panels/manage.php:67
+msgid "YES"
+msgstr ""
+
+#: addons/profiles/admin/panels/manage.php:69
+#: addons/profiles/admin/panels/manage.php:70
+msgid "If checked, User will not see the WP Admin Tool Bar"
+msgstr ""
+
+#: addons/profiles/admin/panels/manage.php:86 admin/tabs/mail.php:203
+#: admin/tabs/settings.php:59 admin/tabs/settings.php:146
+#: admin/tabs/settings.php:215 admin/tabs/settings.php:375
+msgid "Save Changes"
+msgstr ""
+
+#: admin/tabs/fields.php:19
+msgid "Custom Fields Customizer"
+msgstr ""
+
+#: admin/tabs/fields.php:22
+msgid ""
+"This section allow you to set different fields to the registration form."
+msgstr ""
+
+#: admin/tabs/fields.php:27
+msgid "Click here to add new field"
+msgstr ""
+
+#: admin/tabs/fields.php:34
+msgid "Form:"
+msgstr ""
+
+#: admin/tabs/fields.php:47
+msgid "Type"
+msgstr ""
+
+#: admin/tabs/fields.php:51
+msgid "Field"
+msgstr ""
+
+#: admin/tabs/fields.php:54 classes/ultimatecaptcha.class.php:363
+msgid "Separator"
+msgstr ""
+
+#: admin/tabs/fields.php:57
+msgid "You can create a separator or a field"
+msgstr ""
+
+#: admin/tabs/fields.php:62
+msgid "Editor / Input Type"
+msgstr ""
+
+#: admin/tabs/fields.php:71 classes/ultimatecaptcha.class.php:384
+msgid ""
+"When user edit profile, this field can be an input (text, textarea, image "
+"upload, etc.)"
+msgstr ""
+
+#: admin/tabs/fields.php:76
+msgid "New Custom Meta Key"
+msgstr ""
+
+#: admin/tabs/fields.php:81 classes/ultimatecaptcha.class.php:394
+msgid ""
+"Enter a custom meta key for this profile field if do not want to use a "
+"predefined meta field above. It is recommended to only use alphanumeric "
+"characters and underscores, for example my_custom_meta is a proper meta key."
+msgstr ""
+
+#: admin/tabs/fields.php:87
+msgid "Label"
+msgstr ""
+
+#: admin/tabs/fields.php:93 classes/ultimatecaptcha.class.php:405
+msgid ""
+"Enter the label / name of this field as you want it to appear in front-end "
+"(Profile edit/view)"
+msgstr ""
+
+#: admin/tabs/fields.php:98 classes/ultimatecaptcha.class.php:414
+msgid "Tooltip Text"
+msgstr ""
+
+#: admin/tabs/fields.php:104 classes/ultimatecaptcha.class.php:419
+msgid "A tooltip text can be useful for social buttons on profile header."
+msgstr ""
+
+#: admin/tabs/fields.php:110 classes/ultimatecaptcha.class.php:424
+msgid "Help Text"
+msgstr ""
+
+#: admin/tabs/fields.php:113 classes/ultimatecaptcha.class.php:426
+msgid "A help text can be useful for provide information about the field."
+msgstr ""
+
+#: admin/tabs/fields.php:115 classes/ultimatecaptcha.class.php:428
+msgid "Show this help text under the profile field."
+msgstr ""
+
+#: admin/tabs/fields.php:123 classes/ultimatecaptcha.class.php:441
+msgid "User can edit"
+msgstr ""
+
+#: admin/tabs/fields.php:127 admin/tabs/fields.php:149
+#: admin/tabs/fields.php:164 classes/ultimatecaptcha.class.php:445
+#: classes/ultimatecaptcha.class.php:472 classes/ultimatecaptcha.class.php:509
+msgid "Yes"
+msgstr ""
+
+#: admin/tabs/fields.php:130 admin/tabs/fields.php:146
+#: admin/tabs/fields.php:161 admin/tabs/settings.php:45
+#: classes/ultimatecaptcha.class.php:448 classes/ultimatecaptcha.class.php:469
+#: classes/ultimatecaptcha.class.php:506
+msgid "No"
+msgstr ""
+
+#: admin/tabs/fields.php:133 classes/ultimatecaptcha.class.php:451
+msgid "Users can edit this profile field or not."
+msgstr ""
+
+#: admin/tabs/fields.php:142
+msgid "This field is required"
+msgstr ""
+
+#: admin/tabs/fields.php:152 classes/ultimatecaptcha.class.php:475
+msgid ""
+"Selecting yes will force user to provide a value for this field at "
+"registration and edit profile. Registration or profile edits will not be "
+"accepted if this field is left empty."
+msgstr ""
+
+#: admin/tabs/fields.php:157
+msgid "Show on Registration form"
+msgstr ""
+
+#: admin/tabs/fields.php:167
+msgid ""
+"Show this field on the registration form? If you choose no, this field will "
+"be shown on edit profile only and not on the registration form. Most users "
+"prefer fewer fields when registering, so use this option with care."
+msgstr ""
+
+#: admin/tabs/fields.php:183 classes/ultimatecaptcha.class.php:582
+msgid "Success "
+msgstr ""
+
+#: admin/tabs/fields.php:184
+msgid "Submit New Field"
+msgstr ""
+
+#: admin/tabs/fields.php:186 classes/ultimatecaptcha.class.php:588
+#: classes/ultimatecaptcha.profile.php:327
+#: classes/ultimatecaptcha.profile.php:729
+msgid "Cancel"
+msgstr ""
+
+#: admin/tabs/fields.php:203
+msgid "Are you totally sure that you want to delete this field?"
+msgstr ""
+
+#: admin/tabs/fields.php:205
+msgid "Are you totally sure that you want to restore the default fields?"
+msgstr ""
+
+#: admin/tabs/fields.php:207 classes/ultimatecaptcha.profile.php:66
+#: classes/ultimatecaptcha.profile.php:68
+msgid "Please input a name"
+msgstr ""
+
+#: admin/tabs/fields.php:213 admin/tabs/licence.php:31
+#: classes/ultimatecaptcha.class.php:1261
+#: classes/ultimatecaptcha.profile.php:56
+#: classes/ultimatecaptcha.profile.php:64
+msgid "Please wait ..."
+msgstr ""
+
+#: admin/tabs/help.php:9
+msgid " Quick Documentation"
+msgstr ""
+
+#: admin/tabs/help.php:11
+msgid ""
+"Here there are some useful tutorials that will help you to start with "
+"Ultimate Captcha."
+msgstr ""
+
+#: admin/tabs/help.php:19 admin/tabs/welcome.php:36
+msgid "Getting Started"
+msgstr ""
+
+#: admin/tabs/help.php:23
+msgid "Create Site Key & Secret Key"
+msgstr ""
+
+#: admin/tabs/help.php:26
+msgid "Get Support"
+msgstr ""
+
+#: admin/tabs/licence.php:18
+msgid "Congratulations!"
+msgstr ""
+
+#: admin/tabs/licence.php:19
+msgid ""
+"Your copy has been validated. You should be able to update the plugin "
+"through your WP Update sections. Also, you should start receiving an notice "
+"every time the plugin is updated."
+msgstr ""
+
+#: admin/tabs/licence.php:23
+msgid "Validate your copy"
+msgstr ""
+
+#: admin/tabs/licence.php:24
+msgid ""
+"Please fill out the form below with the serial number generated when you "
+"registered your domain through your account at UltimateCaptcha.com"
+msgstr ""
+
+#: admin/tabs/licence.php:26
+msgid "INPUT YOUR SERIAL KEY"
+msgstr ""
+
+#: admin/tabs/licence.php:31
+msgid "CLICK HERE TO VALIDATE YOUR COPY"
+msgstr ""
+
+#: admin/tabs/mail.php:6
+msgid "Advanced Email Options"
+msgstr ""
+
+#: admin/tabs/mail.php:13
+msgid ""
+"Here you can control how WP Ticket Ultra will send the notification to your "
+"users."
+msgstr ""
+
+#: admin/tabs/mail.php:24
+msgid "Send From Name"
+msgstr ""
+
+#: admin/tabs/mail.php:25 admin/tabs/mail.php:26
+msgid "Enter the your name or company name here."
+msgstr ""
+
+#: admin/tabs/mail.php:32
+msgid "Send From Email"
+msgstr ""
+
+#: admin/tabs/mail.php:33 admin/tabs/mail.php:34
+msgid "Enter the email address to be used when sending emails."
+msgstr ""
+
+#: admin/tabs/mail.php:40
+msgid "Mailer:"
+msgstr ""
+
+#: admin/tabs/mail.php:42
+msgid "Use the PHP mail() function to send emails"
+msgstr ""
+
+#: admin/tabs/mail.php:43
+msgid "Send all emails via SMTP"
+msgstr ""
+
+#: admin/tabs/mail.php:44
+msgid "Send all emails via Mandrill"
+msgstr ""
+
+#: admin/tabs/mail.php:45
+msgid "Send all emails via Third-party plugin"
+msgstr ""
+
+#: admin/tabs/mail.php:49 admin/tabs/mail.php:50
+msgid "Specify which mailer method the pluigin should use when sending emails."
+msgstr ""
+
+#: admin/tabs/mail.php:56
+msgid "Return Path"
+msgstr ""
+
+#: admin/tabs/mail.php:58 admin/tabs/mail.php:59
+msgid "Set the return-path to match the From Email"
+msgstr ""
+
+#: admin/tabs/mail.php:71
+msgid "SMTP Settings"
+msgstr ""
+
+#: admin/tabs/mail.php:72
+msgid ""
+"This options should be set only if you have chosen to send email via SMTP"
+msgstr ""
+
+#: admin/tabs/mail.php:79
+msgid "SMTP Host:"
+msgstr ""
+
+#: admin/tabs/mail.php:80 admin/tabs/mail.php:81
+msgid "Specify host name or ip address."
+msgstr ""
+
+#: admin/tabs/mail.php:87
+msgid "SMTP Port:"
+msgstr ""
+
+#: admin/tabs/mail.php:88 admin/tabs/mail.php:89
+msgid "Specify Port."
+msgstr ""
+
+#: admin/tabs/mail.php:96
+msgid "Encryption:"
+msgstr ""
+
+#: admin/tabs/mail.php:98
+msgid "No encryption"
+msgstr ""
+
+#: admin/tabs/mail.php:99
+msgid "Use SSL encryption"
+msgstr ""
+
+#: admin/tabs/mail.php:100
+msgid "Use TLS encryption"
+msgstr ""
+
+#: admin/tabs/mail.php:104 admin/tabs/mail.php:105
+msgid "Specify the encryption method."
+msgstr ""
+
+#: admin/tabs/mail.php:111
+msgid "Authentication:"
+msgstr ""
+
+#: admin/tabs/mail.php:113
+msgid "No. Do not use SMTP authentication"
+msgstr ""
+
+#: admin/tabs/mail.php:114
+msgid "Yes. Use SMTP Authentication"
+msgstr ""
+
+#: admin/tabs/mail.php:118 admin/tabs/mail.php:119
+msgid "Specify the authentication method."
+msgstr ""
+
+#: admin/tabs/mail.php:125
+msgid "Username:"
+msgstr ""
+
+#: admin/tabs/mail.php:126 admin/tabs/mail.php:127
+msgid "Specify Username."
+msgstr ""
+
+#: admin/tabs/mail.php:133
+msgid "Password:"
+msgstr ""
+
+#: admin/tabs/mail.php:134 admin/tabs/mail.php:135
+msgid "Input Password."
+msgstr ""
+
+#: admin/tabs/mail.php:153
+msgid "User Registration Email"
+msgstr ""
+
+#: admin/tabs/mail.php:153
+msgid "Close"
+msgstr ""
+
+#: admin/tabs/mail.php:155
+msgid "This message will be sent to the user and it includes the password."
+msgstr ""
+
+#: admin/tabs/mail.php:166
+msgid "Subject:"
+msgstr ""
+
+#: admin/tabs/mail.php:167 admin/tabs/mail.php:168
+msgid "Set Email Subject."
+msgstr ""
+
+#: admin/tabs/mail.php:174
+msgid "Message"
+msgstr ""
+
+#: admin/tabs/mail.php:175 admin/tabs/mail.php:176
+msgid "Set Email Message here."
+msgstr ""
+
+#: admin/tabs/mail.php:184
+msgid "RESTORE DEFAULT TEMPLATE"
+msgstr ""
+
+#: admin/tabs/main.php:22
+msgid "Do you find this plugin useful?"
+msgstr ""
+
+#: admin/tabs/main.php:23
+msgid ""
+"We offer free support, we love to do that, please consider leaving a 5 stars "
+"review on WordPress. That motivates us a lot to keep offering the best "
+"support for free."
+msgstr ""
+
+#: admin/tabs/main.php:23
+msgid "Rate it"
+msgstr ""
+
+#: admin/tabs/main.php:27
+msgid "Do you need help?"
+msgstr ""
+
+#: admin/tabs/main.php:28
+msgid ""
+"We would be glad to resolve any issue you might have found. Just let us know "
+"by opening a ticket."
+msgstr ""
+
+#: admin/tabs/main.php:28
+msgid "Open a ticket"
+msgstr ""
+
+#: admin/tabs/settings.php:5
+msgid "Plugin Settings"
+msgstr ""
+
+#: admin/tabs/settings.php:16 admin/tabs/settings.php:237
+msgid "reCaptcha"
+msgstr ""
+
+#: admin/tabs/settings.php:20
+msgid "Newsletter"
+msgstr ""
+
+#: admin/tabs/settings.php:33
+msgid "Newsletter Preferences"
+msgstr ""
+
+#: admin/tabs/settings.php:35
+msgid "Here you can activate your preferred newsletter tool."
+msgstr ""
+
+#: admin/tabs/settings.php:43
+msgid "Activate Newsletter"
+msgstr ""
+
+#: admin/tabs/settings.php:46
+msgid "AWeber"
+msgstr ""
+
+#: admin/tabs/settings.php:47
+msgid "MailChimp"
+msgstr ""
+
+#: admin/tabs/settings.php:50 admin/tabs/settings.php:51
+msgid "Just set \"NO\" to deactivate the newsletter tool."
+msgstr ""
+
+#: admin/tabs/settings.php:71
+msgid "This function is available only on certain versions."
+msgstr ""
+
+#: admin/tabs/settings.php:82
+msgid "Aweber Settings"
+msgstr ""
+
+#: admin/tabs/settings.php:84
+msgid ""
+"This module gives you the capability to subscribe your clients automatically "
+"to any of your Aweber List when they submit a ticket."
+msgstr ""
+
+#: admin/tabs/settings.php:94
+msgid "APP ID"
+msgstr ""
+
+#: admin/tabs/settings.php:95 admin/tabs/settings.php:96
+msgid "Fill out this field with your AWeber APP ID."
+msgstr ""
+
+#: admin/tabs/settings.php:102
+msgid "Consumer Key"
+msgstr ""
+
+#: admin/tabs/settings.php:103 admin/tabs/settings.php:104
+msgid "Fill out this field your AWeber Consumer Key."
+msgstr ""
+
+#: admin/tabs/settings.php:110
+msgid "Consumer Secret"
+msgstr ""
+
+#: admin/tabs/settings.php:111 admin/tabs/settings.php:112
+msgid "Fill out this field your AWeber Consumer Secret."
+msgstr ""
+
+#: admin/tabs/settings.php:121
+msgid "Auto Checked Aweber"
+msgstr ""
+
+#: admin/tabs/settings.php:123 admin/tabs/settings.php:124
+msgid ""
+"If checked, the user will not need to click on the AWeber checkbox. It will "
+"appear checked already."
+msgstr ""
+
+#: admin/tabs/settings.php:129
+msgid "Aweber Text"
+msgstr ""
+
+#: admin/tabs/settings.php:130 admin/tabs/settings.php:131
+#: admin/tabs/settings.php:199 admin/tabs/settings.php:200
+msgid ""
+"Please input the text that will appear when asking users to get periodical "
+"updates."
+msgstr ""
+
+#: admin/tabs/settings.php:137
+msgid "Aweber Header Text"
+msgstr ""
+
+#: admin/tabs/settings.php:138 admin/tabs/settings.php:139
+msgid "Please input the text that will appear as header when AWeber is active."
+msgstr ""
+
+#: admin/tabs/settings.php:160
+msgid "MailChimp Settings"
+msgstr ""
+
+#: admin/tabs/settings.php:162
+msgid "."
+msgstr ""
+
+#: admin/tabs/settings.php:172
+msgid "MailChimp API Key"
+msgstr ""
+
+#: admin/tabs/settings.php:173 admin/tabs/settings.php:174
+msgid ""
+"Fill out this field with your MailChimp API key here to allow integration "
+"with MailChimp subscription."
+msgstr ""
+
+#: admin/tabs/settings.php:180
+msgid "MailChimp List ID"
+msgstr ""
+
+#: admin/tabs/settings.php:181 admin/tabs/settings.php:182
+msgid "Fill out this field your list ID."
+msgstr ""
+
+#: admin/tabs/settings.php:190
+msgid "Auto Checked MailChimp"
+msgstr ""
+
+#: admin/tabs/settings.php:192 admin/tabs/settings.php:193
+msgid ""
+"If checked, the user will not need to click on the mailchip checkbox. It "
+"will appear checked already."
+msgstr ""
+
+#: admin/tabs/settings.php:198
+msgid "MailChimp Text"
+msgstr ""
+
+#: admin/tabs/settings.php:206
+msgid "MailChimp Header Text"
+msgstr ""
+
+#: admin/tabs/settings.php:207 admin/tabs/settings.php:208
+msgid ""
+"Please input the text that will appear as header when mailchip is active."
+msgstr ""
+
+#: admin/tabs/settings.php:240
+msgid "You can get the Site Key and Secret Key on Google reCaptcha Dashboard"
+msgstr ""
+
+#: admin/tabs/settings.php:240 admin/tabs/settings.php:242
+msgid "Click here"
+msgstr ""
+
+#: admin/tabs/settings.php:242
+msgid "You may check the reCaptcha setup tutorial as well. "
+msgstr ""
+
+#: admin/tabs/settings.php:253
+msgid "Site Key:"
+msgstr ""
+
+#: admin/tabs/settings.php:254 admin/tabs/settings.php:255
+msgid "Enter your site key here."
+msgstr ""
+
+#: admin/tabs/settings.php:261
+msgid "Secret Key:"
+msgstr ""
+
+#: admin/tabs/settings.php:262 admin/tabs/settings.php:263
+msgid "Enter your site secret here."
+msgstr ""
+
+#: admin/tabs/settings.php:273
+msgid "Protect WordPress Default Pages"
+msgstr ""
+
+#: admin/tabs/settings.php:276 admin/tabs/settings.php:332
+msgid "Select what pages will be protected by reCaptcha"
+msgstr ""
+
+#: admin/tabs/settings.php:285 admin/tabs/settings.php:341
+msgid "Registration Form"
+msgstr ""
+
+#: admin/tabs/settings.php:287 admin/tabs/settings.php:288
+#: admin/tabs/settings.php:343 admin/tabs/settings.php:344
+msgid "If checked, the reCaptcha will be displayed in the registration form."
+msgstr ""
+
+#: admin/tabs/settings.php:294 admin/tabs/settings.php:350
+msgid "Login Form"
+msgstr ""
+
+#: admin/tabs/settings.php:296 admin/tabs/settings.php:297
+#: admin/tabs/settings.php:352 admin/tabs/settings.php:353
+msgid "If checked, the reCaptcha will be displayed in the login form."
+msgstr ""
+
+#: admin/tabs/settings.php:304 admin/tabs/settings.php:360
+msgid "Forgot Password Form"
+msgstr ""
+
+#: admin/tabs/settings.php:306 admin/tabs/settings.php:307
+#: admin/tabs/settings.php:316 admin/tabs/settings.php:317
+#: admin/tabs/settings.php:362 admin/tabs/settings.php:363
+msgid ""
+"If checked, the reCaptcha will be displayed in the forgot password form."
+msgstr ""
+
+#: admin/tabs/settings.php:314
+msgid "Comments"
+msgstr ""
+
+#: admin/tabs/settings.php:329
+msgid "Custom Pages"
+msgstr ""
+
+#: admin/tabs/welcome.php:18
+msgid "Helping the Community"
+msgstr ""
+
+#: admin/tabs/welcome.php:39
+msgid "It's very importante that you follow the Getting Started Guide:"
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:24
+msgid "Text"
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:25
+msgid "Textarea"
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:26
+msgid "Select Dropdown"
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:27
+msgid "Radio"
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:28
+msgid "Checkbox"
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:29
+msgid "Date Picker"
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:347
+msgid "Position"
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:352
+msgid ""
+"Please use a unique position. Position lets you place the new field in the "
+"place you want exactly in Profile view."
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:356
+msgid "Field Type"
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:360
+msgid "Profile Field"
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:366
+msgid "You can create a separator or a usermeta (profile field)"
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:372
+msgid "Field Input"
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:389
+msgid "Custom Meta Field"
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:401
+msgid "Label / Name"
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:465
+msgid "This field is Required"
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:502
+msgid "Show on Registration Form"
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:512
+msgid "Show this profile field on the registration form"
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:530
+msgid "Available Choices"
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:537
+msgid ""
+"<strong>PLEASE NOTE: </strong>Enter values separated by commas, example: "
+"1,2,3. The choices will be available for front end user to choose from."
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:540
+msgid ""
+"<strong>PLEASE NOTE:</strong> Enter one choice per line please. The choices "
+"will be available for front end user to choose from."
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:551
+msgid ""
+"Enter one choice per line please. The choices will be available for front "
+"end user to choose from."
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:559
+msgid "Enable Predefined Choices"
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:563
+msgid "None"
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:566
+msgid "List of Countries"
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:570
+msgid "Age"
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:573
+msgid ""
+"You can enable a predefined filter for choices. e.g. List of countries It "
+"enables country selection in profiles and saves you time to do it on your "
+"own."
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:587
+msgid "Update"
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:661
+msgid " - Separator"
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:665
+msgid " - Profile Field"
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:676
+msgid "Edit"
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:676
+msgid "Delete"
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:687
+msgid "Success! This field has been deleted "
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:784 classes/ultimatecaptcha.class.php:789
+msgid "ERROR:"
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:784 classes/ultimatecaptcha.class.php:789
+msgid "Google reCAPTCHA verification failed."
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:784 classes/ultimatecaptcha.class.php:789
+msgid "Back"
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:789
+msgid "Do you have JavaScript enabled?"
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:960
+msgid "Error"
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:1067
+msgid "Password Changed"
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:1070
+msgid "Password Reset"
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:1074
+msgid "Your Account Details"
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:1087
+msgid "Please use the following link to reset your password."
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:1089
+msgid "If you did not request a new password delete this email."
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:1091
+#: classes/ultimatecaptcha.class.php:1106
+msgid "Best Regards!"
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:1099
+msgid "Hello "
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:1100
+msgid ""
+"Thank you for your registration. Your login details for your account are as "
+"follows:"
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:1101
+msgid "Username: {{ucaptcha_user_name}}"
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:1102
+msgid "Password: {{ucaptcha_user_password}}"
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:1103
+msgid "Please use the following link to login to your account."
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:1128
+msgid "Dashboard"
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:1129
+msgid "Settings"
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:1130
+msgid "Custom Fields"
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:1131
+msgid "Email Templates"
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:1132
+msgid "Doc"
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:1133
+msgid "GO PRO!"
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:1149
+#: classes/ultimatecaptcha.class.php:1151
+msgid "Ultimate Captcha"
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:1159
+msgid "More Functionality!"
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:1165
+msgid "Licensing"
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:1267
+#: classes/ultimatecaptcha.profile.php:83
+msgid "Done"
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:1268
+#: classes/ultimatecaptcha.profile.php:84
+msgid "Today"
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:1269
+#: classes/ultimatecaptcha.profile.php:85
+msgid "Prev"
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:1270
+#: classes/ultimatecaptcha.profile.php:86
+msgid "Next"
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:1273
+#: classes/ultimatecaptcha.profile.php:89
+msgid "Show a different month"
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:1344
+msgid "Are you human?"
+msgstr ""
+
+#: classes/ultimatecaptcha.class.php:1549
+msgid "Settings saved."
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:57
+msgid "<img src=\""
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:59
+msgid "ERROR!. Please write a message "
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:61
+msgid " <img src=\""
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:63
+msgid "You must make a selection first"
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:71
+msgid "Are you sure?"
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:72
+msgid "Please input a title"
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:73
+msgid "Please write a message"
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:284
+msgid "Allowed Files"
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:312
+msgid "Drop "
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:318
+msgid "Select Image"
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:323
+msgid "Remove"
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:398
+msgid "You may only upload one image at a time!"
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:413
+msgid "The file you selected exceeds the maximum filesize limit."
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:724
+msgid "Crop & Save"
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:1012
+#: classes/ultimatecaptcha.profile.php:2705
+msgid " ERROR! Password must be identical "
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:1018
+#: classes/ultimatecaptcha.profile.php:2711
+msgid " ERROR! Password should contain at least 7 alphanumeric characters "
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:1039
+msgid ""
+" Success!! The new password has been changed. Please click on the login link "
+"to get in your account.  "
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:1086
+msgid " Success!! Your Personal Details Were Updated  "
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:1112
+msgid " ERROR! Please type your new email "
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:1118
+msgid " ERROR! Please type a valid email address "
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:1137
+msgid " ERROR! You haven't changed your email. "
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:1146
+msgid " ERROR! The email is in use already "
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:1189
+msgid " Success!! Your email account has been changed to : "
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:1251
+msgid "Unread Messages"
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:1345
+msgid "<strong>ERROR:</strong> Please input your First Name."
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:1349
+msgid "<strong>ERROR:</strong> Please input your Last Name."
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:1353
+msgid "<strong>ERROR:</strong> Please input an email address."
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:1357
+msgid "<strong>ERROR:</strong> reCaptcha validation failed."
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:1364
+msgid "<strong>ERROR:</strong> The email address already exists."
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:1368
+msgid "<strong>ERROR:</strong> The username already exists."
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:1504
+#: classes/ultimatecaptcha.profile.php:1735
+msgid "<strong>ERROR:</strong> The username field is empty."
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:1512
+msgid "<strong>ERROR:</strong> The password field is empty."
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:1535
+msgid "<strong>ERROR:</strong> The captcha validation is wrong."
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:1556
+msgid "<strong>ERROR:</strong> Invalid Email was entered."
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:1610
+msgid "<strong>ERROR:</strong> Invalid Username was entered."
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:1613
+msgid "<strong>ERROR:</strong> Incorrect password was entered."
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:1617
+msgid "<strong>ERROR:</strong> Please provide Password."
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:1633
+#: classes/ultimatecaptcha.profile.php:1802
+msgid "<strong>ERROR:</strong> Your account is not active."
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:1681
+msgid " A reset link has been sent to the user. "
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:1728
+msgid "<strong>ERROR:</strong> The captcha validation is wrong.."
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:1757
+#: classes/ultimatecaptcha.profile.php:1780
+msgid "<strong>ERROR:</strong> Invalid Email or Username."
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:1842
+msgid " A reset link has been sent to your email. "
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:2253
+msgid "Sign Up"
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:2276
+msgid "Your request has been sent successfully. Please check your email."
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:2284
+msgid "Account Data"
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:2291
+msgid "First Name"
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:2294
+msgid "Type your First Name"
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:2294
+#: classes/ultimatecaptcha.profile.php:2306
+#: classes/ultimatecaptcha.profile.php:2318
+#: classes/ultimatecaptcha.profile.php:2334
+#: classes/ultimatecaptcha.profile.php:2468
+#: classes/ultimatecaptcha.profile.php:2483
+#: classes/ultimatecaptcha.profile.php:2618
+#: classes/ultimatecaptcha.profile.php:2635
+msgid " * This input is required!"
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:2303
+msgid "Last Name"
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:2306
+msgid "Type your Last Name"
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:2315
+msgid "Username"
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:2318
+msgid "Type your Username"
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:2327
+msgid "Email"
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:2330
+msgid ""
+"The login information will be sent to this email address. A random password "
+"will be generated and you can change it later from your account."
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:2334
+msgid "Type your Email"
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:2352
+msgid "Receive Daily Updates "
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:2357
+msgid "Yes, I want to receive daily updates. "
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:2390
+#: classes/ultimatecaptcha.profile.php:2499
+#: classes/ultimatecaptcha.profile.php:2652
+msgid "Submit"
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:2398
+#: classes/ultimatecaptcha.profile.php:2661
+msgid "Please set a login page."
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:2402
+msgid "Already have an account?"
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:2429
+msgid "Login"
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:2456
+msgid "Login data"
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:2462
+#: classes/ultimatecaptcha.profile.php:2603
+msgid "Username or Email"
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:2468
+msgid "Type your Username or Email"
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:2477
+msgid "Password"
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:2483
+#: classes/ultimatecaptcha.profile.php:2618
+msgid "Type your Password"
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:2507
+msgid "Please set a password reset page."
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:2511
+msgid "Forgot Password?"
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:2521
+msgid "Please set a registration page."
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:2525
+msgid "Don't you have an account?"
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:2558
+msgid "Recover Password"
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:2593
+msgid "Type your new password"
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:2594
+msgid "Re-Type your password"
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:2608
+msgid "Recover your password"
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:2635
+msgid "Type your new password again"
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:2665
+msgid "Login to your account?"
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:2730
+msgid ""
+" Success!! The new password has been changed. Please click on the login link "
+"to get in your account."
+msgstr ""
+
+#: classes/ultimatecaptcha.profile.php:2736
+msgid " ERROR! Invalid reset link "
+msgstr ""

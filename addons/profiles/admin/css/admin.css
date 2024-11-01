@@ -1,0 +1,24 @@
+/*Admin - Main*/
+
+
+#loading-animation{display:none}
+#ultimatecaptcha-sync-results{display:none}
+
+#ultimatecaptcha-validation-results{display:none}
+.ultimatecaptcha-ultra-sect h3{ margin-left:0px}
+.ultimatecaptcha-ultra-sect h3{ font-size:20px;}
+
+.ultimatecaptcha-ultra-btn-red{ background: #F00 !important;  color:#FFF !important}
+
+/*users module*/
+.ultimatecaptcha-users-membership-edition {  margin:10px 0px 10px 0px; padding-left:15px;}
+
+/**/
+
+
+.ultimatecaptcha-top-noti-admin {  margin:10px 0px 10px 0px}
+
+.ultimatecaptcha-frame-impo{ background:#F2F2F2}
+
+.ultimatecaptcha-ultra-rounded {-moz-border-radius: 5px; border-radius:5px;}
+.ultimatecaptcha-ultra-sect { background:#FFF; position:relative; clear:both; width:98%; margin-top:20px; padding:20px 10px 10px 10px; height:auto !important}
